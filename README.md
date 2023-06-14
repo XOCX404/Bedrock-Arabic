@@ -6,7 +6,7 @@ https://github.com/XOCX404/Bedrock-Arabic/releases/tag/Release
 
 
 يمكنك التبليغ على المشاكل في الترجمة هنا:
-https://github.com/XOCX404/Bedrock-Arabic/issues
+ا https://github.com/XOCX404/Bedrock-Arabic/issues
 
 
 
